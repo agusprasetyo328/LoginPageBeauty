@@ -8,7 +8,7 @@ Proyek ini adalah halaman login sederhana dengan tampilan glassmorphism mengguna
 
 ## Tampilan
 
-![Tampilan Halaman Login](screenshot-login.png)
+![Tampilan Halaman Login](Untitled.PNG)
 
 ## Cara Menggunakan
 
