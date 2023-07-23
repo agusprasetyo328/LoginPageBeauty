@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>CodePen - Glassmorphism Login</title>
-  <link rel="stylesheet" href="./style.css">
-
+    <meta charset="UTF-8">
+    <title>Glassmorphism Login</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
-<body>
-<!-- partial:index.partial.html -->
 <body>
     <section class="container">
         <div class="login-container">
@@ -15,10 +12,10 @@
             <div class="form-container">
                 <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
                 <h1 class="opacity">Login Page</h1>
-                <form>
-                    <input type="text" placeholder="USERNAME" />
-                    <input type="password" placeholder="PASSWORD" />
-                    <button class="opacity">SUBMIT</button>
+                <form action="proses_login.php" method="POST">
+                    <input type="text" placeholder="USERNAME" name="username" />
+                    <input type="password" placeholder="PASSWORD" name="password" />
+                    <button class="opacity" type="submit">SUBMIT</button>
                 </form>
                 <div class="register-forget opacity">
                     <a href="">REGISTER</a>
@@ -29,9 +26,5 @@
         </div>
         <div class="theme-btn-container"></div>
     </section>
-</body>
-<!-- partial -->
-  <script  src="./script.js"></script>
-
 </body>
 </html>
