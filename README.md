@@ -1,15 +1,9 @@
-Tentu, berikut adalah contoh README untuk proyek GitHub Anda yang berisi halaman login HTML dan file PHP untuk memproses data login:
-
 # Login Page Beauty
-
 ## Deskripsi
-
 Proyek ini adalah halaman login sederhana dengan tampilan glassmorphism menggunakan HTML, CSS, dan PHP. Halaman login terhubung ke database MySQL untuk memverifikasi data login pengguna.
-
 ## Tampilan
-
-![Tampilan Halaman Login](Untitled.PNG)
-
+![Tampilan Halaman L![Untitled](https://github.com/agusprasetyo328/LoginPageBeauty/assets/117325376/c588e473-8991-4ee6-82be-84ad3ed4e9a6)
+ogin]
 ## Cara Menggunakan
 
 1. **Prasyarat**
@@ -35,7 +29,7 @@ Proyek ini adalah halaman login sederhana dengan tampilan glassmorphism mengguna
 
 4. **Jalankan Aplikasi**
    - Nyalakan server lokal (misalnya, XAMPP) dan pastikan MySQL sudah berjalan.
-   - Buka halaman login dengan mengakses URL ke direktori proyek di web browser, misalnya `http://localhost/nama_proyek`.
+   - Buka halaman login dengan mengakses URL ke direktori  `http://localhost`.
 
 5. **Login**
    - Masukkan username dan password yang telah terdaftar di database untuk mencoba login. Jika data login benar, Anda akan mendapatkan pesan "Login berhasil! Selamat datang, [username]", dan jika salah, Anda akan mendapatkan pesan "Username tidak ditemukan!" atau "Password salah!".
