@@ -2,7 +2,7 @@
 ## Deskripsi
 Proyek ini adalah halaman login sederhana dengan tampilan glassmorphism menggunakan HTML, CSS, dan PHP. Halaman login terhubung ke database MySQL untuk memverifikasi data login pengguna.
 ## Tampilan
-
+![Screenshot (6)](https://github.com/agusprasetyo328/LoginPageBeauty/assets/117325376/d41f3317-1501-4bd9-bb64-247f5050099a)
 ## Cara Menggunakan
 1. **Prasyarat**
    - Pastikan Anda telah menginstal [XAMPP](https://www.apachefriends.org/index.html) atau sejenisnya untuk menjalankan server lokal dan MySQL.
@@ -22,15 +22,11 @@ Proyek ini adalah halaman login sederhana dengan tampilan glassmorphism mengguna
      );
      ```
    - Pastikan Anda telah mengganti konfigurasi database pada file `proses_login.php` dengan nilai yang sesuai, yaitu `$host`, `$username`, `$password`, dan `$database`.
-
 4. **Jalankan Aplikasi**
    - Nyalakan server lokal (misalnya, XAMPP) dan pastikan MySQL sudah berjalan.
    - Buka halaman login dengan mengakses URL ke direktori  `http://localhost`.
-
 5. **Login**
    - Masukkan username dan password yang telah terdaftar di database untuk mencoba login. Jika data login benar, Anda akan mendapatkan pesan "Login berhasil! Selamat datang, [username]", dan jika salah, Anda akan mendapatkan pesan "Username tidak ditemukan!" atau "Password salah!".
-
 ## Kontribusi
-
 Jika Anda ingin berkontribusi pada proyek ini, Anda dapat melakukan fork proyek ini, membuat perubahan di branch baru, dan mengajukan pull request untuk ditinjau.
 # LoginPageBeauty
