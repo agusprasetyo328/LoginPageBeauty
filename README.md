@@ -1,6 +1,6 @@
 # Login Page Beauty
 ## Deskripsi
-Proyek ini adalah halaman login sederhana dengan tampilan glassmorphism menggunakan HTML, CSS, dan PHP. Halaman login terhubung ke database MySQL untuk memverifikasi data login pengguna.
+Code ini adalah halaman login sederhana dengan tampilan glassmorphism menggunakan HTML, CSS, dan PHP. Halaman login terhubung ke database MySQL untuk memverifikasi data login pengguna.
 ## Tampilan
 ![Screenshot (6)](https://github.com/agusprasetyo328/LoginPageBeauty/assets/117325376/d41f3317-1501-4bd9-bb64-247f5050099a)
 ## Cara Menggunakan
